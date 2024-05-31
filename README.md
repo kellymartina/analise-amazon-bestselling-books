@@ -4,9 +4,9 @@ Este projeto contém uma análise dos dados dos livros mais vendidos na Amazon.
 
 ## Data
 
-Data from: [Kaggle](https://www.kaggle.com/datasets/khushikhushikhushi/amazon-bestselling-books)
+1. Book Name: o título do livro.
+2. Author Name: o autor do livro.
+3. Rating: A nota do livro dada pelos usuários da Amazon.
+4. Price: o preço do livro na Amazon
 
-- Book Name: o título do livro.
-- Author Name: o autor do livro.
-- Rating: A nota do livro dada pelos usuários da Amazon.
-- Price: o preço do livro na Amazon
+- Data source: [Kaggle](https://www.kaggle.com/datasets/khushikhushikhushi/amazon-bestselling-books)
