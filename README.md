@@ -1,7 +1,8 @@
 # Amazon Best Selling Books Analysis
 
 Este projeto contém uma análise dos dados dos livros mais vendidos na Amazon. <br>
-Análise feita com Python usando um notebook Jupyter (`.ipynb`).
+Análise feita com Python usando um notebook Jupyter (`.ipynb`). <br>
+[Visualizar análise](amazon-bestselling-books.ipynb)
 
 ## Dados
 
